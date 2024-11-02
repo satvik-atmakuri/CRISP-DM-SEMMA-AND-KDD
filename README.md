@@ -6,8 +6,8 @@ Research Paper: [View the PDF](CRISP-DM/crisp_dm_RP.pdf)
 SEMMA:
 colab: https://colab.research.google.com/drive/1cc7h2oKrqVOn7EPdodoODq_Js18damrn?usp=sharing
 medium article: https://medium.com/@satvik.atmakuri9/building-a-wine-quality-prediction-model-using-the-semma-methodology-a0047595cf12
-Research Paper: 
+Research Paper: [View the PDF](SEMMA/SEMMA_Research_Paper.pdf)
 KDD:
 colab: https://colab.research.google.com/drive/12GommP7NBqT1dj1Dc960vpBYBB4sdU50?usp=sharing
 medium: https://medium.com/@satvik.atmakuri9/building-a-fraud-detection-model-using-random-forest-and-kdd-methodology-b493d4c66205
-Research Paper: 
+Research Paper: [View the PDF](KDD/KDD_Research_Paper.pdf)
