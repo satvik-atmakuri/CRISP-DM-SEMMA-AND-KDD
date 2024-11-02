@@ -32,7 +32,3 @@ This repository provides resources and research papers related to three popular 
 - **Medium Article**: [Building a Fraud Detection Model Using Random Forest and KDD Methodology](https://medium.com/@satvik.atmakuri9/building-a-fraud-detection-model-using-random-forest-and-kdd-methodology-b493d4c66205)
 - **Research Paper**: [Fraud Detection Using KDD Methodology and Random Forests](KDD/KDD_Research_Paper.pdf)
 
----
-
-Feel free to explore these resources for detailed insights into each methodology and their practical applications in data mining and machine learning projects.
-
