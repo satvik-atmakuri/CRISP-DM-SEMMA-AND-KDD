@@ -2,7 +2,7 @@
 CRISP DM:
 colab: https://colab.research.google.com/drive/17-Qg3IG7U9KRALZMeghcycIY3CFLt9RG?usp=sharing
 medium article: https://medium.com/@satvik.atmakuri9/predicting-heart-attack-risk-using-machine-learning-a-crisp-dm-approach-61e400ea921c
-Research Paper: 
+Research Paper: [View the PDF](CRISP-DM/crisp_dm_RP.pdf)
 SEMMA:
 colab: https://colab.research.google.com/drive/1cc7h2oKrqVOn7EPdodoODq_Js18damrn?usp=sharing
 medium article: https://medium.com/@satvik.atmakuri9/building-a-wine-quality-prediction-model-using-the-semma-methodology-a0047595cf12
